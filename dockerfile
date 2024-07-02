@@ -3,7 +3,7 @@ FROM nginx:alpine
 
 # Copy the contents of the current directory to /usr/share/nginx/html
 COPY . /usr/share/nginx/html
-COPY styles.css .
+
 # Expose port 80
 EXPOSE 80
 
