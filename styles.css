@@ -174,7 +174,7 @@ section{
 
 /*** login ***/
 
-#form-group {
+.form-group {
     margin-bottom: 15px;
     background-color: green;
 }
